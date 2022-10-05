@@ -1,0 +1,24 @@
+{
+    "users": {
+        "ubicord": {
+            "username": "ubicord",
+            "display_name": "UBICORD",
+            "user_id": "ubi-01:37846721",
+            "email": "ubicord@ubicord.com",
+            "email_verified": true,
+            "password": "",
+            "avatar": "",
+            "status": {
+                "online": true,
+                "offline": false,
+                "working": false
+            },
+            "permissions": {
+                "create_panel": true,
+                "edit_panel": true,
+                "delete_panel": true,
+                "use_icons": true
+            }
+        }   
+    }
+}
