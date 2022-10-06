@@ -9,5 +9,5 @@ let icons = {
 document.getElementsByTagName("icon-custom")[0].innerHTML = icons.custom;
 document.getElementsByTagName("icon-instagram")[0].innerHTML = icons.instagram;
 document.getElementsByTagName("icon-facebook")[0].innerHTML = icons.facebook;
-document.getElementsByTagName("icon-twitter")[0].innerHTML = icons.twitter;
+document.getElementsByTagName("icon-twitter").innerHTML = icons.twitter;
 document.getElementsByTagName("icon-twitch")[0].innerHTML = icons.twitch;
